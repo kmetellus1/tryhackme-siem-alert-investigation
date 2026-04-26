@@ -48,8 +48,6 @@ The investigation required reviewing key alert details, including:
 One of the alerts shown involved a suspicious file creation event. The alert contained information such as the host, process name, target file path, and file hash. Based on the alert details, the event was reviewed and classified as suspicious activity that required further analysis.
 
 ## Screenshot
-
-## Screenshot
 [![TryHackMe SIEM Alert Dashboard](./tryhackme-siem-alert-dashboard.png)](https://github.com/kmetellus1/tryhackme-siem-alert-investigation/blob/main/tryhackme-siem-alert-dashboard.png)
 
 ## Key Takeaways
