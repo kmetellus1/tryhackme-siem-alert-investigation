@@ -49,7 +49,8 @@ One of the alerts shown involved a suspicious file creation event. The alert con
 
 ## Screenshot
 
-![TryHackMe SIEM Alert Dashboard](screenshots/tryhackme-siem-alert-dashboard.png)
+## Screenshot
+[![TryHackMe SIEM Alert Dashboard](./tryhackme-siem-alert-dashboard.png)](https://github.com/kmetellus1/tryhackme-siem-alert-investigation/blob/main/tryhackme-siem-alert-dashboard.png)
 
 ## Key Takeaways
 
